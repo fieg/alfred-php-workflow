@@ -1,0 +1,17 @@
+{
+    "name": "fieg/alfred-php-workflow",
+    "authors": [
+        {
+            "name": "fieg",
+            "email": "jeroen@fieg.nl"
+        }
+    ],
+    "require": {
+        "symfony/console": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
